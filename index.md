@@ -47,6 +47,11 @@ Abaixo segue fotos do personagem que esculpi durante a disciplina de criação a
 
 
 
+*Link para meu SketchFab*
+[SketchFab](https://sketchfab.com/joaop_lim)
+
+
+
 
 
 
