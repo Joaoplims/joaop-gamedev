@@ -31,6 +31,9 @@ Jogo desenvolvido para um projeto de extensão que participei na faculdade, na q
 
 Animalia foi um jogo protótipo desenvolvido para um trabalho da faculdade. Animalia é um jogo de Action RPG  protagonizado por animais antropomórficos que são ameaçados por dragões. Neste projeto atuei como gerente de projeto e programador. Um dos sistemas que desenvolvi para o jogo, foi o sistema de magia, que permitia  o jogador escolher e evoluir 4 magias ativas e 6 magias passivas.
 
+*ScreenShot*
+![Imagem Sistema Habilidades](https://i.imgur.com/ERVZ4Cv.png)
+
 *Link para o video do sistema de magia*
 [Vimeo](https://vimeo.com/347371168)
 
@@ -38,7 +41,7 @@ Animalia foi um jogo protótipo desenvolvido para um trabalho da faculdade. Anim
 
 
 ### Modelagem e Escultura
-Abaixo segue fotos do personagem que esculpi durante a disciplina de criação avançada de personagem. Toda o processo de escultura, retopologia, UV e bake de texturas foram feitos usando o Blender juntamente com Gimp e Krita para fazer pequenas edições na textura
+Abaixo segue fotos do personagem que esculpi durante a disciplina de criação avançada de personagem. Todo o processo de escultura, retopologia, UV e bake de texturas foram feitos usando o Blender juntamente com Gimp e Krita para fazer pequenas edições na textura
 
 
 ![Imagem Ursulo HighPoly01](https://i.imgur.com/en7VwvT.png)
