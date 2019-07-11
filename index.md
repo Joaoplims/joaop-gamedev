@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Apaixonado por games e, a cada dia que passa, me apaixonando mais pela profissão que escolhi: ser desenvolvedor de jogos. Possuo experiência usando ferramentas como Unity3D, Blender, Gimp, Audacity e C#, bem com metodologias de processo ágil(Scrum)
+Apaixonado por games, engressou no curso de Jogos Digitais pela PUC-MG em 2017, caminhando para o 5º periodo do curso e cada dia mais apaixonado pela futura profissião: Desenvolvedor de jogos. Possui experiência usando ferramentas como Unity3D, Blender, Gimp, Krita, Audacity e C#, bem com metodologias de processo ágil(Scrum)
 
 ## Projetos que participei
 
@@ -29,7 +29,7 @@ Jogo desenvolvido para um projeto de extensão que participei na faculdade, na q
 
 ### Animalia
 
-Animalia foi um jogo protótipo desenvolvido para um trabalho da faculdade. Animalia é um jogo de Action RPG  protagonizado por animais antropomórficos que são ameaçados por dragões. Neste projeto atuei como gerente de projeto e programador. Um dos sistemas que desenvolvi para o jogo, foi o sistema de magia, que permitia  o jogador escolher e evoluir 4 magias ativas e 6 magias passivas.
+Animalia é um jogo protótipo desenvolvido para um trabalho da faculdade. Animalia é um jogo de Action RPG  protagonizado por animais antropomórficos que são ameaçados por dragões. Neste projeto atuei como gerente de projeto e programador. Um dos sistemas que desenvolvi para o jogo, foi o sistema de magia, que permitia  o jogador escolher e evoluir 4 magias ativas e 6 magias passivas.
 
 *ScreenShot*
 ![Imagem Sistema Habilidades](https://i.imgur.com/ERVZ4Cv.png)
@@ -41,7 +41,7 @@ Animalia foi um jogo protótipo desenvolvido para um trabalho da faculdade. Anim
 
 
 ### Modelagem e Escultura
-Abaixo segue fotos do personagem que esculpi durante a disciplina de criação avançada de personagem. Todo o processo de escultura, retopologia, UV e bake de texturas foram feitos usando o Blender juntamente com Gimp e Krita para fazer pequenas edições na textura
+Abaixo segue fotos do personagem que esculpidos durante a disciplina de criação avançada de personagem. Todo o processo de escultura, retopologia, UV e bake de texturas foram feitos usando o Blender juntamente com Gimp e Krita para fazer pequenas edições nos mapas de textura.
 
 
 ![Imagem Ursulo HighPoly01](https://i.imgur.com/en7VwvT.png)
