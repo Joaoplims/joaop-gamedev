@@ -3,15 +3,16 @@
 
 ## Sobre Mim
 
-Apaixonado por games e, a cada dia que passa, me apaixonando mais pela profissão que escolhi: ser desenvolvedor de jogos. Possuo experiencia usando ferramentas como Unity3D, Blender, Gimp, Audacity e C#, bem com metodologia de processo ágil(Scrum)
+Apaixonado por games e, a cada dia que passa, me apaixonando mais pela profissão que escolhi: ser desenvolvedor de jogos. Possuo experiência usando ferramentas como Unity3D, Blender, Gimp, Audacity e C#, bem com metodologias de processo ágil(Scrum)
 
 ## Projetos que participei
 
-### Glico Runner
-Jogo desenvolvido para um projeto de extensão que participei na faculdade, na qual o objetivo era desenvolver um jogo mobile que pudesse ajudar na transmissão de conhecimentos sobre cuidados que portadores de diabete tipo 01 precisam ter para controlar e viver melhor com a doença. GlicoRunner é um infinity runner na qual os jogadores precisam correr e coletar itens que alteram seu nível de glicemia e hidratação. O jogo também passa informaçoes importantes sobre cuidados de rotina que devem ser tomados por portadores de diabete tipo 1 atravéz de um quiz. Durante este projeto, eu fui responsável por toda a parte de programação do jogo.
+### GlicoRunner
+Jogo desenvolvido para um projeto de extensão que participei na faculdade, na qual o objetivo era desenvolver um jogo mobile que pudesse ajudar na transmissão de conhecimentos sobre cuidados com a diabete tipo 01 para jovens de 13 a 25 anos. GlicoRunner é um infinity runner na qual os jogadores precisam coletar itens que alteram seu nível de glicemia e hidratação. O jogo também passa informaçoes importantes sobre cuidados de rotina que devem ser tomados pelos portadores atravéz de um quiz. Durante este projeto, fui responsável por toda a parte de programação do jogo.
 
 ###ScreeShots
-
+![Imagem Logo GlicoRunner](https://i.imgur.com/IHRKPje.png)
+![Imagem Gameplay GlicoRunner](https://i.imgur.com/D8GSEPh.png)
 
 
 
@@ -21,15 +22,18 @@ Jogo desenvolvido para um projeto de extensão que participei na faculdade, na q
 
 
 ###Link para video do GamePlay:
+[Vimeo](https://vimeo.com/347433553)
 
 
 
 
 ### Animalia
 
-Animia foi um jogo protótipo desenvolvido para um trabalho da faculdade.Animalia é um jogo de Action RPG onde o protagonisado por animais antropormóficos que devem proteger suas vidas de dragões cósmicos que os ameaçam. Neste projeto atuei como gerente de projeto e programador. Um dos sistemas que desenvolvi para o jogo, foi o sistema de magia, que permitia  o jogador escolher e evoluir 4 magias ativas e 6 magias passivas.
+Animalia foi um jogo protótipo desenvolvido para um trabalho da faculdade. Animalia é um jogo de Action RPG  protagonizado por animais antropomórficos que são ameaçados por dragões. Neste projeto atuei como gerente de projeto e programador. Um dos sistemas que desenvolvi para o jogo, foi o sistema de magia, que permitia  o jogador escolher e evoluir 4 magias ativas e 6 magias passivas.
 
 ###Link para o video do sistema de magia
+[Vimeo](https://vimeo.com/347371168)
+
 ###Link para o video do gameplay
 
 
