@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Apaixonado por games, ingressou no curso de Jogos Digitais pela PUC-MG em 2017, atualmente no 5º periodo do curso e cada dia mais apaixonado pela futura profissião: Desenvolvedor de jogos. Possui experiência usando ferramentas como Unity3D, Git, Blender, Gimp, Krita, Audacity e C#, bem com metodologias de processo ágil(Scrum)
+Apaixonado por games, ingressou no curso de Jogos Digitais pela PUC-MG em 2017, atualmente no 5º periodo do curso e cada dia mais apaixonado pela futura profissão: Desenvolvedor de jogos. Possui experiência usando ferramentas como Unity3D, Git, Blender, Gimp, Krita, Audacity e C#, bem com metodologias de processo ágil(Scrum)
 
 ## Projetos que participei
 
