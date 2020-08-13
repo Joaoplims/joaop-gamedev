@@ -12,8 +12,8 @@ Jogo Desenvolvido como projeto de conclusão de curso. Kaiju Attack é um jogo d
 Neste Projeto, atuei como programador de gameplay, sendo responsável por programar os sistemas de combate, sistema de inteligência artificial do inimigo, fluxo de tela e condição de vitoria/derrota, implementação de audio e etc.
 
 *ScreeShots*
-![Imagem Tela Inicial Kaiju Attack](https://imgur.com/a/1SuRA8m)
-![Imagem Gameplay Kaiju Attack](https://imgur.com/a/m0YOg1h)
+![Imagem Tela Inicial Kaiju Attack](https://i.imgur.com/D3VOKNI.jpg)
+![Imagem Gameplay Kaiju Attack](https://i.imgur.com/d8SsjGN.jpg)
 
 *Link para video do GamePlay:*
 [Vimeo](https://vimeo.com/447559187)
