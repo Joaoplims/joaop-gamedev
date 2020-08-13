@@ -3,13 +3,14 @@
 
 ## Sobre Mim
 
-Apaixonado por games, ingressou no curso de Jogos Digitais pela PUC-MG em 2017, concluido o mesmo em Junho de 2020, recém formado e cada dia mais apaixonado pela profissão: Desenvolvedor de jogos. Possui experiência usando ferramentas como Unity3D, Git, Blender, Gimp, Krita, Audacity, C#, desenvolvimento de shaders utilizando ShaderLab, CG e HLSL, bem com metodologias de processo ágil (Scrum)
+Apaixonado por games, ingressou no curso de Jogos Digitais pela PUC-MG em 2017, concluído o mesmo em Junho de 2020, recém formado e cada dia mais apaixonado pela profissão. Possui experiência usando ferramentas como Unity3D, Git, Blender, Gimp, Krita, Audacity, C#, desenvolvimento de shaders utilizando ShaderLab, CG e HLSL, bem com metodologias de processo ágil (Scrum)
 
 ## Projetos que participei
 
 ### Kaiju Attack
-Jogo Desenvolvido como projeto de conclusão de curso. Kaiju Attack é um jogo de tiro em terceira pessoa na qual o jogador controla o Mecha Shogun Avenger (um robô gigante) para destruir o Kaiju (um monstro gigante) antes de que ele destrua toda a sua cidade. O proble é que como se trata de uma luta entre colossos, a movimentação e o ataque do kaiju e do mecha destroe a cidade, demandando que o jogador atue de forma estratégica para derrotar o inimigo causando o menor estrago possivel a cidade.
-Neste Projeto, atuei como programador de gameplay, sendo responsável por programar os sistemas de combate, sistema de inteligência artificial do inimigo, fluxo de tela e condição de vitoria/derrota, implementação de audio e etc.
+Jogo Desenvolvido como projeto de conclusão de curso. Kaiju Attack é um jogo de tiro em terceira pessoa na qual o jogador controla o Mecha Shogun Avenger (um robô gigante) para destruir o Kaiju (um monstro gigante) antes de que ele destrua toda a sua cidade. A dificuldade está no fato de que se trata de uma luta entre colossos, por isso, a movimentação e os ataque do kaiju e do mecha destrói a cidade, demandando que o jogador atue de forma estratégica para derrotar o inimigo causando o menor dano possível à cidade.
+Neste Projeto, atuei como programador de gameplay, sendo responsável por programar os sistemas de combate, sistema de inteligência artificial do inimigo, fluxo de tela e condição de vitória/derrota, implementação de audio e etc
+
 
 *ScreeShots*
 ![Imagem Tela Inicial Kaiju Attack](https://i.imgur.com/D3VOKNI.jpg)
@@ -19,7 +20,7 @@ Neste Projeto, atuei como programador de gameplay, sendo responsável por progra
 [Vimeo](https://vimeo.com/447559187)
 
 ### GlicoRunner
-Jogo desenvolvido para um projeto de extensão na faculdade, na qual o objetivo é desenvolver um jogo mobile que possa ajudar na transmissão de conhecimentos sobre cuidados com a diabete tipo 01 para jovens de 13 a 25 anos. GlicoRunner é um infinity runner na qual os jogadores precisam coletar itens que alteram seu nível de glicemia e hidratação. O jogo também passa informações importantes sobre cuidados de rotina que devem ser tomados pelos portadores atravéz de um quiz. Atuei como responsável pela parte de programação do jogo.
+Jogo desenvolvido para um projeto de extensão na faculdade, na qual o objetivo é desenvolver um jogo mobile que possa ajudar na transmissão de conhecimentos sobre cuidados com a diabete tipo 01 para jovens de 13 a 25 anos. GlicoRunner é um infinity runner na qual os jogadores precisam coletar itens que alteram seu nível de glicemia e hidratação. O jogo também passa informações importantes sobre cuidados de rotina que devem ser tomados pelos portadores através de um quiz. Atuei como responsável pela parte de programação do jogo.
 
 *ScreeShots*
 ![Imagem Tela Inicial GlicoRunner](https://i.imgur.com/IHRKPje.png)
